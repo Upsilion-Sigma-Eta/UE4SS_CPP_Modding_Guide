@@ -1,0 +1,11 @@
+
+<h1 style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">함수 (Function)</h1>
+<h2 style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">1. 함수란 무엇이며, 왜 필요한가?</h2>
+<blockquote style="font-family: Helvetica, Arial, sans-serif; line-height: 1.0; margin: 0; padding: 0; border-left: 5px solid #ccc; background-color: #f8f8f8; position: relative; z-index: 1; min-height: 1em;">
+<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0;"><em style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">"함수는 작은 프로그램이다. 큰 문제를 작은 문제로 나누는 가장 좋은 방법이다."<br style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;"></em></div>
+<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0; text-align: right;"><em style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">&mdash; 로버트 C. 마틴(Robert C. Martin), 『클린 코드』<br style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;"></em>
+<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0; text-align: left;"><em style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">"짧은 함수는 작은 이야기를 말하고, 그 이야기는 이름으로 잘 나타나야 한다."</em></div>
+<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0;"><em style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">&mdash; 켄트 벡(Kent Beck), 『테스트 주도 개발(TDD)』</em><span style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0; text-align: left;">​</span></div>
+</div>
+</blockquote>
+<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0;">&#8203;</div>
