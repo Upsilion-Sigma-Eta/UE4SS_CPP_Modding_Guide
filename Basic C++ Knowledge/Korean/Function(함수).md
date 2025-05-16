@@ -1,4 +1,3 @@
-
 <h1 style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">함수 (Function)</h1>
 <h2 style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">1. 함수란 무엇이며, 왜 필요한가?</h2>
 <blockquote style="font-family: Helvetica, Arial, sans-serif; line-height: 1.0; margin: 0; padding: 0; border-left: 5px solid #ccc; background-color: #f8f8f8; position: relative; z-index: 1; min-height: 1em;">
@@ -8,4 +7,4 @@
 <div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0;"><em style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0;">&mdash; 켄트 벡(Kent Beck), 『테스트 주도 개발(TDD)』</em><span style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; line-height: 1.0; text-align: left;">​</span></div>
 </div>
 </blockquote>
-<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0;">&#8203;</div>
+<div style="min-height: 1em; margin: 0; padding: 0; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.0;">함수란 특정 동작을 수행하는 일련의 코드들을 한 묶음으로 만들어 놓은 것을 의미합니다. 만약 함수라는 것이 존재치 않는다면, 특정 동작을 하기 위한 코드들을 매 호출마다 하나씩 직접 넣어야 했을 것이고, 소스 코드의 길이는 엄청나게 늘어났을 것입니다. 더불어, 동작을 실행중인 코드의 일부분이 잘못되는 등의 오류를 발견해서 수정하면, 엄청나게 커진 소스코드에서 똑같은 동작을 하는 부분을 하나씩 찾아서 전부 고쳐줘야만 올바르게 프로그램이 동작할 겁니다. 생각만 해도 머리가 아프고, 굉장히 시간이 많이 걸리는 작업이라는 생각이 들지 않나요? 하지만 함수를 사용하면 이 모든 문제를 해결할 수 있습니다. A라는 동작을 수행하는 함수를 만든다면, 매번 A의 전체 코드가 들어갈 자리에 해당 함수를 호출하기만 하면 됩니다. 더불어, 함수는 이름을 설정할 수 있기 때문에, 더 이상 A를 수행하는 코드들을 보면서 어디까지가 A라는 동작을 수행하는지를 확인할 필요도 없습니다. A()라는 함수를 호출함으로써 우리는 그 함수가 A라는 동작을 수행하는 함수라는 것을 알 수 있습니다. 실제 코드로 예제를 들어 볼까요?</div>
